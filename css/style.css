@@ -261,7 +261,7 @@ a{
     height: calc(100vh - 0px);
     background: url(../img/banner.png);
     background-size: cover;
-    display: flex;
+    display: block;
     justify-content: center;
     align-items: center
 }
