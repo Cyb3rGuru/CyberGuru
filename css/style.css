@@ -259,7 +259,6 @@ a{
     margin-top: 0px;
     width: 100%;
     height: calc(100vh - 0px);
-    background-image: url(/img/banner.jpg);
     background-size: cover;
     display: flex;
     justify-content: center;
